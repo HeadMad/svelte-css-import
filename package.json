@@ -1,0 +1,28 @@
+{
+  "name": "svelte-css-import",
+  "version": "0.0.1",
+  "description": "Inline CSS-styles in svelte-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeadMad/svelte-css-import.git"
+  },
+  "keywords": [
+    "Svelte",
+    "css-import",
+    "import",
+    "css",
+    "styles",
+    "inline",
+    "svelte"
+  ],
+  "author": "headmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeadMad/svelte-css-import/issues"
+  },
+  "homepage": "https://github.com/HeadMad/svelte-css-import#readme"
+}
