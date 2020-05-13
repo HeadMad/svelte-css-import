@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/HeadMad/svelte-css-import/issues"
   },
-  "homepage": "https://github.com/HeadMad/svelte-css-import#readme"
+  "homepage": "https://github.com/HeadMad/svelte-css-import#readme",
+  "dependencies": {
+    "svelte": "^3.22.2"
+  }
 }
