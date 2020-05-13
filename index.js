@@ -47,4 +47,4 @@ const markup = async ({content, filename}) => {
 }
 
 
-export default { markup }
+module.exports = { markup }
