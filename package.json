@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/HeadMad/svelte-css-import#readme",
   "dependencies": {
-    "svelte": "^3.22.2"
+    "svelte": "^4.2.19"
   }
 }
